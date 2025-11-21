@@ -37,12 +37,7 @@ Product Selection Form – Allows customers to choose items and specify quantity
 
 Admin Forms – Enable inventory updates and product management.
 
-
-
-
-
-
-
 This project demonstrates the use of session management, exception handling, and database connectivity in Advanced Java, while HTML forms handle user input for registration, login, and product selection.
 
-Would you like me to also help you craft a one‑line tagline (like a catchy GitHub repo subtitle) so it looks even more professional on your profile?
+
+Would you like me to also help you craft a one‑line tagline (like a catchy GitHub repo subtitle) so it looks even more professional on your pro
